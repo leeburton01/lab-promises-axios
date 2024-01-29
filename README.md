@@ -95,7 +95,7 @@ Now that we have fetched the data for France let's fetch the data for all the co
 <br/>
 
 
-  Endpoint for France: https://restcountries.com/v3.1/all
+  Endpoint for all countries: https://restcountries.com/v3.1/all
 
 
 
