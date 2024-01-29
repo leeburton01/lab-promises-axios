@@ -66,6 +66,7 @@ This lab will be using the information learned today over handling promises and 
 https://swapi.dev/api/people/4
 ```
 Expected Result:
+<br/>
 ![image](https://github.com/November-cohort-2023/lab-promises-axios/assets/54825038/95a62c38-9bcb-48e4-be16-3ac3a2581a66)
 
 ### Iteration 2 | Fetch the data for the country of France
