@@ -76,9 +76,7 @@ In this iteration we will use the restcountries API. Fetch the information for t
 
 <br/>
    
-     ```shell
-https://swapi.dev/api/people/4
-```
+     Endpoint for France: https://restcountries.com/v3.1/name/france
 
 
 
@@ -97,9 +95,8 @@ Now that we have fetched the data for France let's fetch the data for all the co
 <br/>
 
 
-    ```shell
-https://swapi.dev/api/people/4
-```
+  Endpoint for France: https://restcountries.com/v3.1/all
+
 
 
 <br/>
