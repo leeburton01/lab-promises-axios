@@ -74,9 +74,11 @@ Expected Result:
 In this iteration we will use the restcountries API. Fetch the information for the country of france from the restcountries api and console.log() the object containing the information.
 
 <br/>
-  ```shell
-https://restcountries.com/name/france
+ 
+    ```shell
+https://swapi.dev/api/people/4
 ```
+
 
 
 <br/>
@@ -92,9 +94,12 @@ Expected Results:
 Now that we have fetched the data for France let's fetch the data for all the countries and console.log the first 10 values we recieve from the API. 
 
 <br/>
-  ```shell
-[https://restcountries.com/name/france](https://restcountries.com/v3.1/all)
+
+
+    ```shell
+https://swapi.dev/api/people/4
 ```
+
 
 <br/>
 
