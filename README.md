@@ -74,6 +74,12 @@ Expected Result:
 In this iteration we will use the restcountries API. Fetch the information for the country of france from the restcountries api and console.log() the object containing the information.
 
 <br/>
+  ```shell
+https://restcountries.com/name/france
+```
+
+
+<br/>
 Expected Results:
 
 
@@ -84,6 +90,14 @@ Expected Results:
 ### Iteration 3 | Fetch the data for all countries
 
 Now that we have fetched the data for France let's fetch the data for all the countries and console.log the first 10 values we recieve from the API. 
+
+<br/>
+  ```shell
+[https://restcountries.com/name/france](https://restcountries.com/v3.1/all)
+```
+
+<br/>
+
 
 ![image](https://github.com/November-cohort-2023/lab-promises-axios/assets/54825038/bd346ce8-b1da-4da0-bd3d-e6347d656da2)
 
