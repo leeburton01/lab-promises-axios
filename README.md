@@ -62,6 +62,7 @@ This lab will be using the information learned today over handling promises and 
   In this iteration we will start off with a straightforward implementation. We will fetch the data for the object containing Darth Vaders information from the Star Wars API and console.log the result.
 <br/>
   Endpoint for Darth Vader Information:
+    
   ```shell
 https://swapi.dev/api/people/4
 ```
@@ -74,8 +75,8 @@ Expected Result:
 In this iteration we will use the restcountries API. Fetch the information for the country of france from the restcountries api and console.log() the object containing the information.
 
 <br/>
- 
-    ```shell
+   
+     ```shell
 https://swapi.dev/api/people/4
 ```
 
