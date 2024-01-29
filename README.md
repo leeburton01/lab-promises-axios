@@ -75,7 +75,9 @@ In this iteration we will use the restcountries API. Fetch the information for t
 
 <br/>
 Expected Results:
-![image](https://github.com/November-cohort-2023/lab-promises-axios/assets/54825038/e5aae78b-c07b-4a40-8703-c03212a45aa0)
+
+
+![image](https://github.com/November-cohort-2023/lab-promises-axios/assets/54825038/231fab31-226b-4f83-986f-f5719adf3506)
 
 
 
