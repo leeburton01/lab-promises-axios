@@ -72,8 +72,9 @@ Expected Result:
 
 ### Iteration 2 | Fetch the data for the country of France
 
-In this iteration we will use the restcountries API. Fetch the information for the country of france from the restcountries api and console.log() the object containing the information.
-
+In this iteration we will use the restcountries API. Fetch the information for the country of france from the restcountries api and console.log() the name of the country.
+<br/>
+#### Hint: Check the structure of the object to get the exact . notation for the name of of the country
 <br/>
    
      Endpoint for France: https://restcountries.com/v3.1/name/france
