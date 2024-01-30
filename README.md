@@ -75,6 +75,9 @@ Expected Result:
 In this iteration we will use the restcountries API. Fetch the information for the country of france from the restcountries api and console.log() the name of the country.
 <br/>
 #### Hint: Check the structure of the object to get the exact . notation for the name of of the country
+
+#### Hint 2: Check the data type of the response from the API
+
 <br/>
    
      Endpoint for France: https://restcountries.com/v3.1/name/france
@@ -85,7 +88,7 @@ In this iteration we will use the restcountries API. Fetch the information for t
 Expected Results:
 
 
-![image](https://github.com/November-cohort-2023/lab-promises-axios/assets/54825038/231fab31-226b-4f83-986f-f5719adf3506)
+![image](https://github.com/November-cohort-2023/lab-promises-axios/assets/54825038/6244059c-0aa3-431f-88f7-fc5d2fb2d040)
 
 
 
