@@ -109,7 +109,7 @@ Now that we have fetched the data for France let's fetch the data for all the co
 ![image](https://github.com/November-cohort-2023/lab-promises-axios/assets/54825038/bd346ce8-b1da-4da0-bd3d-e6347d656da2)
 
 
-### BONUS: Iteration 4 | Use async await to handle the promises
+### Iteration 4 | Use async await to handle the promises
 
 In this iteration we will handle the previous promises using async await. If you used async await for the previous iterations than practice using .then()
 
