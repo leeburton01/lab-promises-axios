@@ -2,6 +2,10 @@
 import React, { useEffect } from "react";
 import axios from "axios";
 
+
+
+
+
 const FetchAllCountries = () => {
   useEffect(() => {
     axios
@@ -16,5 +20,8 @@ const FetchAllCountries = () => {
 
   
 };
+
+
+
 
 export default FetchAllCountries;
